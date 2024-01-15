@@ -1,31 +1,4 @@
 public class Main {
-   /* static int power(int base, int exp) {
-        int result = 1;
-        for (int i = 1; i <= exp; i++) {
-            result *= base;
-        }
-        return result;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(power(3,3));
-    }
-
-    */
-
-    /*static int sum(int a, int b) {
-        int result = a + b;
-        System.out.println(result);
-        return result;
-        //return a+b;
-    }
-
-    public static void main(String[] args) {
-        int result = sum(2, 3) + sum(3, 4);
-        System.out.println(result);
-    }
-
-     */
 
     //palindrom sayı
 
